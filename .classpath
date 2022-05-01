@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="f1"/>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="lib" path="lib/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="lib" path="lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javaee-doc-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.annotation-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/javax.xml.soap-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxb-api-osgi.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jaxws-api.jar"/>
+	<classpathentry kind="lib" path="lib/javaee-endorsed-api-7.0/jsr181-api.jar"/>
+	<classpathentry kind="lib" path="lib/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="lib/jdbc-api-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jdbc.jar"/>
+	<classpathentry kind="lib" path="lib/jsp-api-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/jsp.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14.jar"/>
+	<classpathentry kind="output" path="build/web/WEB-INF/classes"/>
+</classpath>
